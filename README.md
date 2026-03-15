@@ -10,3 +10,6 @@ The Arduino also manages physical feedback locally: LEDs indicate the stress lev
 Setting up PaleWatch is straightforward: upload the Arduino sketch, start the Python bridge, and open the web dashboard. From there, users can activate the camera, run live ML detection, monitor sensor readings, and capture snapshots for documentation. The combination of visual analysis and environmental monitoring creates a comprehensive and interactive way to track reef health continuously, offering both convenience and actionable insights for caretakers.
 
 By fusing machine learning with embedded sensor data, PaleWatch provides a simple but powerful early warning system for coral nurseries. It’s designed to be easy to use, fully local, and focused on giving real-time feedback, helping preserve coral reefs before stress leads to bleaching or collapse.
+
+
+https://youtube.com/shorts/xGb1Lz5fgGM
